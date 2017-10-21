@@ -19,4 +19,7 @@
 ---
 [chapter 1&emsp;时钟与表格](https://qq14.github.io/时钟与表格 "chapter 1")
 
+---
+[回到主页](https://qq14.github.io/ "click here to back to index page")
+
 
