@@ -10,7 +10,7 @@
 - [对于Geany的评价](https://qq14.github.io/%E5%8B%87%E6%B0%94 "关于一个小女孩")
 - [时钟与表格](https://qq14.github.io/时钟与表格 "chapter 1")
 - [安装Visual Studio](https://qq14.github.io/%E5%8B%87%E6%B0%94 "关于一个小女孩")
-- [安装mono](https://qq14.github.io/%E5%8B%87%E6%B0%94 "关于一个小女孩")
+- [汉语的奇妙](https://qq14.github.io/汉语的奇妙 "一个节省时间的策略")
 - [MarkDown语法简介](https://qq14.github.io/%E5%8B%87%E6%B0%94 "关于一个小女孩")
 - [HTML语法总结](https://qq14.github.io/%E5%8B%87%E6%B0%94 "关于一个小女孩")
 - [Python3的新功能](https://qq14.github.io/%E5%8B%87%E6%B0%94 "关于一个小女孩")
